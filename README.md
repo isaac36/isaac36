@@ -1,4 +1,5 @@
-# Olá, sou Isaac Santos
-* Estudante de sistemas e mídias digitais na universidade federal do ceará
-* Amante de jogos, animes, café e gatos
-* Tentando melhorar como programador, aprender e entrar nessa comunidade
+# Hi, i'm Isaac Santos
+
+* >Student of digital systems and media at the federal university of ceará
+* Lover of games, anime, coffee and cats
+* i'm trying to improve as a programmer, learn and join this community
