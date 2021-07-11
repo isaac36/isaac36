@@ -1,4 +1,4 @@
-# Hi, i'm Isaac Santos
+# Hi, welcome! i'm Isaac Santos.
 
 * Student of digital systems and media at the federal university of ceará :man_technologist:
 * Lover of games, anime, coffee and cats :cat:
