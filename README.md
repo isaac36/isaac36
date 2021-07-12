@@ -9,4 +9,4 @@
 * [My instagram](https://www.instagram.com/zack_36_/)
 * [My Linkedin](https://www.linkedin.com/in/isaac-santos-felix-1b0329216/)
 
-<img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+<img alingn="center" src="https://profile-counter.glitch.me/isaac36/count.svg" />
